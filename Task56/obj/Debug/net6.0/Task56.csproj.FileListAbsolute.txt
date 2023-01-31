@@ -1,0 +1,15 @@
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\bin\Debug\net6.0\Task56.exe
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\bin\Debug\net6.0\Task56.deps.json
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\bin\Debug\net6.0\Task56.dll
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\bin\Debug\net6.0\Task56.pdb
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.dll
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\refint\Task56.dll
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.pdb
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+C:\Users\olga9\OneDrive\Рабочий стол\GB\3. Знакомство с языком программирования С#\DZ_8\Task56\obj\Debug\net6.0\ref\Task56.dll
